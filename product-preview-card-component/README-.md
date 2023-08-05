@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/gg-ghub/preview-card-component)
+- Solution URL: [Solution URL](https://github.com/gokhan-guneri/Product-preview-card-component/tree/main/product-preview-card-component)
 - Live Site URL: [Live URL](https://product-preview-card-component-front.netlify.app/)
 
 ### Built with
